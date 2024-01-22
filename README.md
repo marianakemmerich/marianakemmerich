@@ -1,9 +1,9 @@
 ### Hey there! 👋
 
 
-**System Analysis and Development major at Farroupilha Federal Institute of Education, Science and Technology (IFFarroupilha) - Alegrete.**
+**Systems Analysis and Development major at Farroupilha Federal Institute of Education, Science and Technology (IFFarroupilha) - Alegrete.**
 
-I'm Mariana, 24 years old, from Rio Grande do Sul, Brazil.
+I'm Mariana, 25 years old, from Rio Grande do Sul, Brazil.
 
-- 🌱 I’m currently learning Node.js
+- 🌱 Mainly interested in front-end development and UI/UX design.
 - 📫 How to reach me: marianarkemmerich@gmail.com
