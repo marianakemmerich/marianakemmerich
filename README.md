@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-<img src="https://media0.giphy.com/media/13HBDT4QSTpveU/200w.gif?cid=6c09b9524vofmqc0mq026s9awyr5ardui6842g3tr7uvqx59&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="gato" min-width="300px" max-width="400px" width="300px" align="right">
+<img src="https://media0.giphy.com/media/13HBDT4QSTpveU/200w.gif?cid=6c09b9524vofmqc0mq026s9awyr5ardui6842g3tr7uvqx59&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="gato" min-width="300px" max-width="300px" width="300px" align="right" margin="10px">
 
 ### 👩🏻‍🎓 About me
 
