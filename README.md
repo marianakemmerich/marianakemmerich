@@ -7,12 +7,17 @@
 I'm Mariana, 26 years old, from Rio Grande do Sul, Brazil.
 
 - 🎓 Systems Analysis and Development undergrad at Farroupilha Federal Institute of Education, Science and Technology (IFFarroupilha) - Alegrete.
-- 🌱 Mainly interested in front-end development and UI/UX design.
-- 🧩 I love crafting, crocheting and drawing!
+- 🌱 Mainly interested in front-end development and UX/UI design.
 - 🗣️ I'm fluent in both Portuguese and English.
+- 📚 Currently learning: Next.js
 
-### 💻 Languages and frameworks
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,tailwind,nodejs,jquery,java,php,solidity,postgres,mysql)](https://skillicons.dev)
+### 💻 Skills
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,nodejs,jquery,java,php,solidity,postgres,mysql)](https://skillicons.dev)
 
 ### 🛠️ Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,figma,firebase)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,git,figma,firebase)](https://skillicons.dev)
+
+### 💬 How to reach me
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/mariana-rodrigues-kemmerich)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:marianarkemmerich@gmail.com)
