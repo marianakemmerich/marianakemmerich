@@ -12,7 +12,7 @@ I'm Mariana, 26 years old, from Rio Grande do Sul, Brazil.
 - 📚 Currently learning: Next.js
 
 ### 💻 Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,nodejs,jquery,java,php,solidity,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,nodejs,jquery,java,solidity,postgres,mysql)](https://skillicons.dev)
 
 ### 🛠️ Tools
 [![Tools](https://skillicons.dev/icons?i=vscode,git,figma,firebase)](https://skillicons.dev)
